@@ -1,4 +1,4 @@
-# Ask a girl to be your valentine with a pip3 package installation 📦
+# Ask a person to be your valentine with a pip3 package installation 📦
 
 > *"A utility package for system maintenance tasks"* — or so it seems...
 
