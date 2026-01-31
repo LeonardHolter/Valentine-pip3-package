@@ -11,7 +11,8 @@ $ pip3 install boring-package
 $ boring-package Emily
 ```
 
-![Terminal Animation Preview](https://user-images.githubusercontent.com/placeholder/demo.gif)
+<img width="732" height="841" alt="image" src="https://github.com/user-attachments/assets/1ca6c61c-3e98-4434-abb6-7ac7df900b0d" />
+
 
 
 ## Installation
