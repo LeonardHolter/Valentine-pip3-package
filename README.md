@@ -13,26 +13,6 @@ $ boring-package Emily
 
 ![Terminal Animation Preview](https://user-images.githubusercontent.com/placeholder/demo.gif)
 
-## Features
-
-- **Stealth Mode**: Innocuous package name and description to avoid suspicion
-- **Cinematic Intro**: Full-screen warning with block-letter countdown
-- **Matrix-Style Transition**: Falling characters animation for dramatic effect  
-- **Personalized Messages**: Custom story sequence with the recipient's name
-- **3D Rotating Heart**: Real-time ASCII art animation with depth rendering
-- **Cross-Platform**: Works on any terminal that supports ANSI escape codes
-
-## Technical Highlights
-
-This project demonstrates proficiency in:
-
-| Area | Implementation |
-|------|----------------|
-| **Python Packaging** | setuptools, entry points, PyPI distribution |
-| **Terminal Graphics** | ANSI escape codes, cursor manipulation, screen buffering |
-| **3D Rendering** | Mathematical transformations, perspective projection, z-buffering |
-| **Animation Systems** | Frame-based rendering, timing control, smooth interpolation |
-| **ASCII Art Generation** | Dynamic text-to-block-letter conversion, procedural character art |
 
 ## Installation
 
